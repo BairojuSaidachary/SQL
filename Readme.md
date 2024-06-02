@@ -54,5 +54,5 @@ Feel free to modify and extend the scripts according to your specific use case.
 
 ## Contributors
 
-- [Bairoju Saidachary](link_to_your_profile)
+- [BairojuSaidachary](link_to_your_profile)
 
